@@ -1,0 +1,19 @@
+tags
+hh-cache
+node_modules
+.env
+coverage
+coverage.json
+typechain
+.vscode
+
+#Hardhat files
+cache
+artifacts
+#lib
+out
+dist
+typechain-types
+
+#Data files
+*.csv
